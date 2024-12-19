@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">107638942496</string>
+    <string name="google_api_key" translatable="false">AIzaSyDF6Yrk2ZzN68w2oPaQD6IP2GM_yb8JFr0</string>
+    <string name="google_app_id" translatable="false">1:107638942496:android:4930f03dae705de71b0545</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDF6Yrk2ZzN68w2oPaQD6IP2GM_yb8JFr0</string>
+    <string name="google_storage_bucket" translatable="false">kamsa-data.firebasestorage.app</string>
+    <string name="project_id" translatable="false">kamsa-data</string>
+</resources>

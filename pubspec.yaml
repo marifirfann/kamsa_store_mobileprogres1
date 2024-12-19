@@ -1,0 +1,43 @@
+name: kamsa_store
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  cloud_firestore: ^5.5.1
+  firebase_auth: ^5.3.4
+  firebase_core: ^3.8.1
+  flashy_tab_bar2: ^0.0.10
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.14
+  get: ^4.6.6
+  get_storage: ^2.1.1
+  google_nav_bar: ^5.0.7
+  image: ^4.5.0
+  image_picker: ^1.1.2
+  shared_preferences: ^2.3.4
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+  flutter_native_splash: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/img/product/
+    - assets/img/kamsa/
+    - assets/img/pelatihan/
+  uses-material-design: true
+
+flutter_native_splash:
+  color: "#ffffff" # Ganti dengan warna latar belakang splash screen
+  image: assets/img/kamsa/LOGO.png # Path ke gambar logo Anda
+  android: true # Aktifkan untuk splash screen Android
+  ios: true # Aktifkan untuk splash screen iOS
+  web: true # Aktifkan untuk splash screen di web

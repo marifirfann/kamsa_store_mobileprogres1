@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107638942496",
+    "project_id": "kamsa-data",
+    "storage_bucket": "kamsa-data.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107638942496:android:4930f03dae705de71b0545",
+        "android_client_info": {
+          "package_name": "com.kamsastore.kamsa_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF6Yrk2ZzN68w2oPaQD6IP2GM_yb8JFr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
